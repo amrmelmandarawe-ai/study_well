@@ -1,0 +1,6 @@
+{
+  "name": "Study Well",
+  "description": "Grade 10 IGCSE Educational App featuring In-App Video Player, PDF/Notes Viewer, Dynamic AI Quiz Generation, and Admin Content Management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
